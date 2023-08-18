@@ -8,7 +8,7 @@ div::before{
 	font-size:20px;
 }
 div::after{
-	content:"Aftere Element";
+	content:"After Element";
 	color:#f00;
 	font-size:20px;
 	
