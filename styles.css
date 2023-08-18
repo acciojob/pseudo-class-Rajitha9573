@@ -2,7 +2,14 @@
 #containe{
 	margin:20px;
 }
-.style{
-	color:#f00000;
+div::before{
+	content:"Before Element";
+	color:#f00;
 	font-size:20px;
+}
+div::after{
+	content:"Aftere Element";
+	color:#f00;
+	font-size:20px;
+	
 }
